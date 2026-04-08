@@ -1,0 +1,7 @@
+lightgbm
+matplotlib
+numpy
+optuna
+optuna_dashboard
+scikit-learn
+scipy
